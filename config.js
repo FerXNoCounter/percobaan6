@@ -1,18 +1,18 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx'] 
-global.mods = ['6282xxxxxx'] 
-global.prems = ['6282xxxxxx'] 
+global.owner = ['6283124213641'] 
+global.mods = ['6283124213641'] 
+global.prems = ['6283124213641'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Owner'
-global.numberowner = '6282xxxxxx'
+global.numberowner = '6283124213641'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
-global.dana = '6282xxxxxx'
-global.pulsa = '6282xxxxxx'
-global.gopay = ''
+global.dana = '6283124213641'
+global.pulsa = '6283124213641'
+global.gopay = '6283124213641'
 
 //『 Info Bot 』//
 global.namebot = 'R-txzyMd'
